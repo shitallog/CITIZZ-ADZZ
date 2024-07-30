@@ -1,0 +1,21 @@
+[01-Aug-2023 03:21:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 7
+[01-Aug-2023 03:21:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 19
+[01-Aug-2023 03:21:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 25
+[06-Aug-2023 01:06:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 7
+[06-Aug-2023 01:06:42 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 19
+[06-Aug-2023 01:06:42 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 25
+[06-Aug-2023 01:06:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 7
+[06-Aug-2023 01:06:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 19
+[06-Aug-2023 01:06:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 25
+[06-Aug-2023 01:06:59 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 7
+[06-Aug-2023 01:06:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 19
+[06-Aug-2023 01:06:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 25
+[06-Aug-2023 01:07:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 7
+[06-Aug-2023 01:07:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 19
+[06-Aug-2023 01:07:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 25
+[06-Aug-2023 01:07:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 7
+[06-Aug-2023 01:07:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 19
+[06-Aug-2023 01:07:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 25
+[06-Aug-2023 01:07:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 7
+[06-Aug-2023 01:07:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 19
+[06-Aug-2023 01:07:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/citizzadzz/domains/citizzadzz.com/public_html/cities-advertisements.php on line 25

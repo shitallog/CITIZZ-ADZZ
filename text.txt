@@ -1,0 +1,19 @@
+CZnJ5oTK9R
+
+
+
+
+
+Your database has been setup. Use the following values:
+Database:	bhushan_timeskee
+Host:	localhost
+Username:	bhushan_timeskee
+Password:	57nE72KR
+
+
+
+
+
+citizz_adzz_admin
+
+JlRAhP5Fw0z294IypauS

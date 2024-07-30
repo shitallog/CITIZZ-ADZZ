@@ -1,0 +1,1 @@
+<?php $con = mysqli_connect("localhost", "u776132630_citizzadzz", "*Y5i!SruXHN5", "u776132630_citizzadzz") or die('Connection error: '.mysqli_connect_error()) ?>
